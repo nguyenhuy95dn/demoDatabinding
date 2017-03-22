@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">demoBinding2</string>
+    <string name="msg_removed">Sport removed to favorites</string>
+    <string name="msg_added">Sport added to favorites</string>
+    <string name="title_football">Football</string>
+</resources>
